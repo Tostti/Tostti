@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Tostti! 👋
 
 <!--
 **Tostti/Tostti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/tostti"><img src="./devcard.png" width="356" alt="Tostti's Dev Card"/></a>
+
