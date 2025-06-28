@@ -37,7 +37,5 @@ I'm documenting my learning journey here: [tostti.dev](https://tostti.dev)
   </a>
   
   
-##  Stats
-
 
 
