@@ -10,7 +10,7 @@
 
 I'm a Full Stack Developer focused on building solid, modern web applications with React, Node.js, and Docker. Passionate about open-source, clean code, and developer tooling.
 
-I value deep technical understanding over surface-level familiarity. I invest time in understanding the internals of the technologies I use—from the JavaScript event loop and execution model, to how HTTP servers manage concurrency and resource usage. This allows me to architect resilient, maintainable systems tailored to the problem domain.
+I value deep technical understanding over surface-level familiarity. I invest time in understanding the internals of the technologies I use (from the JavaScript event loop and execution model, to how HTTP servers manage concurrency and resource usage). This allows me to architect resilient, maintainable systems tailored to the problem domain.
 
 
 ##  Tech Stack
