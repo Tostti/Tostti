@@ -6,36 +6,27 @@
 </div>
 
 
-# Hi, I'm Tostti!
+# Hi, I'm Nico!
 
-I'm a Full Stack Developer focused on building solid, modern web applications with React, Node.js, and Docker. Passionate about open-source, clean code, and developer tooling.
+Software Engineer with 5+ years of professional experience building web applications, internal tools, automation solutions, and enterprise software.
 
-I value deep technical understanding over surface-level familiarity. I invest time in understanding the internals of the technologies I use (from the JavaScript event loop and execution model, to how HTTP servers manage concurrency and resource usage). This allows me to architect resilient, maintainable systems tailored to the problem domain.
-
-
-##  Tech Stack
-<img src="https://skillicons.dev/icons?i=git,githubactions,bash,html,css,js,ts,react,next,tailwind,nodejs,express,python,docker,linux,postgres,mongodb" />
+My primary expertise is in React, TypeScript, Node.js, and Python. Throughout my career I've worked across web development, cybersecurity, and banking environments, progressing from technical support roles to software engineering and technical leadership positions.
 
 
-<!--
-## 🔍 Latest Projects
-- **Webhook Visualizer** — Monitor incoming webhooks in real time
-- **Admin Dashboard UI** — Dashboard with charts, filters, auth
-- **DevTools Clone** — In-browser dev tool prototype
+## Tech Stack
+React • TypeScript • JavaScript • Node.js • Python • PostgreSQL • MongoDB • Docker • Linux • GitHub Actions • OpenAI • Claude • LangChain
 
-## 📅 Weekly Blog
-I'm documenting my learning journey here: [tostti.dev](https://tostti.dev)
--->
 
-## Contact
-  <a href="https://linkedin.com/in/tostti">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="mailto:contact@tostti.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  
+## Experience
+- Software Engineer (Banking) @ Avenga
+- Staff Software Engineer @ Wazuh
+- Software Engineer @ Wazuh
+- IT Security Engineer @ Wazuh
+
+## Links
+- Website: https://tostti.com
+- LinkedIn: https://linkedin.com/in/tostti
+- Email: contact@tostti.com
   
 
 
