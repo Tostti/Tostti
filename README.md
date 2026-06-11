@@ -22,6 +22,7 @@ React • TypeScript • JavaScript • Node.js • Python • PostgreSQL • Mo
 - Staff Software Engineer @ Wazuh
 - Software Engineer @ Wazuh
 - IT Security Engineer @ Wazuh
+- Wintel Support Engineer @ DXC
 
 ## Links
 - Website: https://tostti.com
